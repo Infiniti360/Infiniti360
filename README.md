@@ -83,8 +83,8 @@ If you’re building something in these areas — let’s connect.
 ---
 
 ## 📫 Contact
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/balakrishnan-soundararajan/
+- Email: sbalakrishnan@outlook.com
 
 ---
 
